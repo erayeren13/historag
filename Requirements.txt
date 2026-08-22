@@ -1,0 +1,4 @@
+foundry-local-sdk
+numpy
+pypdf
+streamlit
